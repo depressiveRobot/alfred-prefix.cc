@@ -7,8 +7,8 @@ Lookup for namespaces using [prefix.cc](http://prefix.cc/).
 When triggered the workflow shows the RDF namespace for a given prefix. Additionally, it shows the prefix declaration for SPARQL and Turtle syntax too.
 
 * `pcc <PREFIX>` - lookup the namespace for PREFIX
-  * `↩︎` copy entry to clipboard and paste in to front most app
-  * '⌘↩︎' open entry in default browser
+  * `↩︎` copy entry to clipboard and paste tn to front most app
+  * `⌘↩`' open entry in default browser
 
 ## License
 
