@@ -10,6 +10,10 @@ When triggered, the workflow shows the RDF namespace for a given prefix. Additio
     * `↩︎` copy entry to clipboard and paste it to front most app
     * `⌘↩` open entry in default browser
 
+## Installation
+
+Download the [latest release](https://github.com/depressiveRobot/alfred-prefix.cc/releases).
+
 ## Credits
 
 This workflow is inspired by the [rdf.sh](https://github.com/seebi/rdf.sh) command line tool.
