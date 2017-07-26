@@ -10,7 +10,6 @@ When triggered, the workflow shows the RDF namespace for a given prefix. Additio
 
 * `rdf <PREFIX>` - lookup the namespace for PREFIX
     * `↩︎` copy entry to clipboard and paste it to front most app
-    * `⌘↩` open entry in default browser
 
 ## Installation
 
